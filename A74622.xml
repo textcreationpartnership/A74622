@@ -1,0 +1,357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The path way to peace. Or, A sure means to make wars to cease. According to the prescription of the Lord, and the practice of his servants recorded in his Word. Whereby we may clearly see what duties God hath required of his servants in time of danger and distresse, by reason of war or otherwise; and how they have performed those duties, and how the Lord hath thereupon preserved and delivered them. Worthy to by imitated by all those that do unfainedly desire the peace and welfare of this kingdome. Imprimatur, Ja. Cranford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74622</idno>
+            <idno type="STC">Wing P717</idno>
+            <idno type="STC">Thomason E1181_1</idno>
+            <idno type="STC">ESTC R208131</idno>
+            <idno type="EEBO-CITATION">99867119</idno>
+            <idno type="PROQUEST">99867119</idno>
+            <idno type="VID">119409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1181[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The path way to peace. Or, A sure means to make wars to cease. According to the prescription of the Lord, and the practice of his servants recorded in his Word. Whereby we may clearly see what duties God hath required of his servants in time of danger and distresse, by reason of war or otherwise; and how they have performed those duties, and how the Lord hath thereupon preserved and delivered them. Worthy to by imitated by all those that do unfainedly desire the peace and welfare of this kingdome. Imprimatur, Ja. Cranford.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by G.B. and R.W. for G. C[alvert],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bookseller's name from Wing.</note>
+                  <note>Signatures: A.</note>
+                  <note>Annotation on Thomason copy: "Sept. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119409:1" rendition="simple:additions"/>
+            <p>THE PATHWAY TO PEACE.</p>
+            <p>
+               <hi>OR,</hi> A ſure means to make wars to ceaſe.</p>
+            <p>According to the Preſcription of the Lord, and the Practice of his ſervants recorded in his Word.</p>
+            <p>Whereby we may clearly ſee what Duties God hath required of his ſervants in time of danger and diſtreſſe, by reaſon of War or otherwiſe; and how they have performed thoſe Duties, and how the Lord hath thereupon preſerved and de<g ref="char:EOLhyphen"/>livered them.</p>
+            <p>Worthy to be imitated by all thoſe that do unfainedly deſire the Peace and Welfare of this Kingdome.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Ja. Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Gal.</hi> 6.16.</bibl> And as many as walke according to this Rule, Peace be upon them, and Mercy, and upon the Iſrael of God.</q>
+            <p>Printed at <hi>London</hi> by <hi>G. B.</hi> and <hi>R. W.</hi> for <hi>G. C.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119409:2"/>
+            <head>The Pathway to Peace.</head>
+            <p n="1">1. <hi>Gods people in the time of danger and di<g ref="char:EOLhyphen"/>ſtreſſe muſt take notice of Gods correct<g ref="char:EOLhyphen"/>ing hand.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords voyce cryeth againſt the City,<note place="margin">Mica. 6.9.</note> and the man of wiſdom ſhall ſee thy name, hear the rod, and who hath appointed it.</p>
+            <p>Shall there be evil in a City and the Lord hath not done it?<note place="margin">Amos 3.6.</note>
+            </p>
+            <p>Who gave Jacob for a ſpoil,<note place="margin">Iſa. 42.24.</note> and Iſrael to the Robbers? did not I the Lord?</p>
+            <p>I forme the light and create darkeneſſe,<note place="margin">Iſa. 45.7.</note> I make peace and create evil, I the Lord do all theſe things.</p>
+            <p>I kill and make alive,<note place="margin">Deut. 32.39.</note> I wound and I heal.</p>
+            <p>
+               <hi>Examples of Gods people who have ac<g ref="char:EOLhyphen"/>knowledge the ſame.</hi>
+            </p>
+            <p>Joſeph ſaid unto his brethren,<note place="margin">Gen. 45.8.</note> It was not you that ſent me hither, but God.</p>
+            <p>And Hanna ſaid,<note place="margin">1 Sam. 2.6, 7.</note> The Lord killeth &amp; ma<g ref="char:EOLhyphen"/>keth alive, he bringeth downe to the grave and raiſeth up, the Lord maketh poore and
+<pb facs="tcp:119409:2"/>maketh rich, he bringeth low and lifteth up.</p>
+            <p>And Eli ſaid, It is the Lord,<note place="margin">1 Sam. 3.18.</note> let him doe what it ſeemeth him good.</p>
+            <p>And David ſaid concerning Shimei,<note place="margin">2 Sam. 16.10.</note> He curſeth even becauſe the Lord hath bidden him curſe David.</p>
+            <p>I was dumb, I opened not my mouth,<note place="margin">Pſal. 39.9.</note> be<g ref="char:EOLhyphen"/>cauſe thou didſt it.</p>
+            <p n="2">2. <hi>Gods people in the time of danger and di<g ref="char:EOLhyphen"/>ſtreſſe muſt acknowledge that their own ſins have been a procuring cauſe of it.</hi>
+            </p>
+            <p>And if thou ſay in thine heart, Wherefore came theſe things upon me?<note place="margin">Jer. 13.22.</note> For the multi<g ref="char:EOLhyphen"/>tude of thine iniquities are thy skirts diſco<g ref="char:EOLhyphen"/>vered, and thy heeles made bare.</p>
+            <p>Man ſuffereth for his ſinne.<note place="margin">Lam. 3.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>Haſt not thou procured this unto thy ſelf,<note place="margin">Jer. 2.17.</note> becauſe thou haſt forſaken the Lord thy God?</p>
+            <p>Thy wayes and thine inventions have procured thee thoſe things.<note place="margin">Jer. 4.18.</note>
+            </p>
+            <p>Thou haſt killed Uriah the Hittite with the ſword,<note place="margin">2 Sam. 12.9.</note> and haſt taken his wife to be thy wife, now therefore the ſword ſhall never de<g ref="char:EOLhyphen"/>part from thy houſe.<note place="margin">Verſ. 10.</note>
+            </p>
+            <p>And it came to paſſe,<note place="margin">2 Chro. 12.2.</note> that in the fift year of Rehoboam, Shiſhak king of Egypt came up againſt Jeruſalem, (becauſe they had tranſgreſſed againſt the Lord.)</p>
+            <p>For this cauſe many are weak and ſickly among you,<note place="margin">1 Cor. 11.30.</note> and many ſleep.</p>
+            <p>
+               <pb facs="tcp:119409:3"/>
+               <hi>Examples of Gods people who have ac<g ref="char:EOLhyphen"/>knowledged the ſame.</hi>
+            </p>
+            <p>Joſephs brethren ſaid one to another,<note place="margin">Gen. 42.21</note> We have verily ſinned againſt our brother, in that we ſaw the anguiſh of his ſoul, when he beſought us, and we would not hear him, and therefore is this trouble come upon us.</p>
+            <p>And ſhe ſaid unto Eliah,<note place="margin">1 Kings 17.18.</note> Art thou come to call my ſinne to remembrance, and to ſlay my ſonne?</p>
+            <p>The wayes of Sion lament,<note place="margin">Lam. 1.4, 5.</note> for the Lord hath afflicted her for the multitude of her tranſgreſſions.</p>
+            <p>They provoked him with their Counſell,<note place="margin">Pſal. 106.43.</note> and were brought low for their iniquitie.</p>
+            <p>My life is ſpent with griefe,<note place="margin">Pſ. 31.10.</note> and my years with ſighing: my ſtrength faileth becauſe of mine iniquity.</p>
+            <p>There is no ſoundneſſe in my fleſh be<g ref="char:EOLhyphen"/>cauſe of thine anger;<note place="margin">Pſal. 38.3.</note> neither is there any reſt in my bones becauſe of my ſinne.</p>
+            <p n="3">3 <hi>Gods people in the time of danger and diſtreſſe muſt fear and tremble before the Lord.</hi>
+            </p>
+            <p>Shall a Trumpet be blowne in the City, and the people not be afraid?<note place="margin">Amos 3.6.</note>
+            </p>
+            <p>Fear ye not me,<note place="margin">Iſa. 5.22. Jer. 2.12.</note> ſaith the Lord?</p>
+            <p>Be aſtoniſhed at this O ye heavens, and be horribly afraid.</p>
+            <p>Sanctifie the Lord of Hoſts in your hearts,<note place="margin">Iſa. 8.23.</note> let him be your fear, and let him be your dread.</p>
+            <p>
+               <pb facs="tcp:119409:3"/>Fear him that can caſt both ſoule and bo<g ref="char:EOLhyphen"/>dy into hell.<note place="margin">Mat. 10.28.</note>
+            </p>
+            <p>At his wrath the earth ſhall tremble.<note place="margin">Iſa. 10.10 Pro. 28.14</note>
+            </p>
+            <p>Bleſſed is the man that feareth alway.</p>
+            <p>
+               <hi>Examples of Gods people who have thus feared.</hi>
+            </p>
+            <p>Adam ſaid, I heard thy voice in the garden, and was afraid.<note place="margin">Gen. 3.10.</note>
+            </p>
+            <p>And Jacob was greatly afraid &amp; diſtreſſed.<note place="margin">Gen. 32.6. Deu. 9 29.</note>
+            </p>
+            <p>And Moſes ſaid unto the people, I was ſore a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raid of the anger and hot diſpleaſure, wherewith the Lord was wroth againſt you to deſtroy you.</p>
+            <p>And when the Meſſengers came,<note place="margin">1 Sam. 4.13.</note> lo Eli ſate upon a ſeate by the wayes ſide watching, for his heart trembled for the Arke of God.</p>
+            <p>Samuel called unto the Lord,<note place="margin">1 Sam. 12.18.</note> and the Lord ſent Thunder and raine that day, and all the people feared the Lord and Samuel.</p>
+            <p>And David was afraid of the Lord that day.</p>
+            <p>And he could not go before the Arke to enquire of God,<note place="margin">2 Sam. 6 9 1 Chron. 21.30.</note> for he was afraid becauſe of the ſword of the Angell of the Lord.</p>
+            <p>And Nehemiah ſaid, they all made us afraid,<note place="margin">Neh. 6.9.</note> ſaying, Their hands ſhall be weakned.</p>
+            <p>And Job ſaid (concerning the Lord) I am troubled at his preſence,<note place="margin">Job 23.15.</note> when I conſider I am afraid of him.</p>
+            <p>And David ſaid, My fleſh trembleth for fear of thee, &amp; I am afraid of thy judgements.<note place="margin">Pſal. 119.120. 2 Chron. 29.2.</note>
+            </p>
+            <p>And when a great multitude came againſt Jehoſhaphat to battell, Jehoſhaphat feared.</p>
+            <p>
+               <pb facs="tcp:119409:4"/>And when Baruch read the roll in the ears of the princes,<note place="margin">Jer. 36.15.</note> they were afraid both one and other.</p>
+            <p>And when Habakkuk heard that the Lord was diſpleaſed,<note place="margin">Hab. 3.16.</note> he ſaid, My belly trembled, my lips quivered at the voice, rottenneſſe entred into my by bones, and I trembled in my ſelfe.</p>
+            <p>And when the diſciples ſaw him walking on the Sea they ſaid,<note place="margin">Mat. 14.26</note> It is a ſpirit, and cried out for fear.</p>
+            <p n="4">4. <hi>Gods people in the time of danger and diſtreſſe muſt humble themſelves before the Lord.</hi>
+            </p>
+            <p>Humble your ſelves under the mighty hand of God.<note place="margin">1 Pet. 5.6.</note>
+            </p>
+            <p>Who fed thee in the wildernes with man<g ref="char:EOLhyphen"/>na which thy fathers knew not,<note place="margin">Deu. 8.16.</note> that he might humble thee and prove thee.</p>
+            <p>The loftie looks of man ſhall be humbled,<note place="margin">Iſa. 2.11.</note> and the haughtineſſe of man ſhall be bowed downe.</p>
+            <p>Say unto the king &amp; queen,<note place="margin">Jer. 13.18.</note> Humble your ſelves, ſit down, for your principalities ſhall come down, even the crown of your glory.</p>
+            <p>
+               <hi>Examples of Gods people who have thus hum<g ref="char:EOLhyphen"/>bled themſelves.</hi>
+            </p>
+            <p>When the Lord told Abraham that he would deſtroy Sodome,<note place="margin">Gene. 18.27.</note> he ſaid. Behold I have taken upon me now to ſpeake unto the Lord that am but duſt and Aſhes.<note place="margin">Gen. 32.9, 10.</note>
+            </p>
+            <p>And when Jacob was in danger of his
+<pb facs="tcp:119409:4"/>brother Eſau, coming againſt him to deſtroy him, he humbled himſelfe before the Lord, ſaying, I am not worthy of the leaſt of al thy mercies, and of all thy truth which thou haſt ſhewed unto thy ſervant.</p>
+            <p>And when the people of God fled before the men of Ai, Joſhua rent his clothes,<note place="margin">Joſ. 7.6.</note> and fell to the earth upon his face before the arke of the Lord untill the eventide, he and the elders of Iſrael, &amp; put duſt upon their heads.</p>
+            <p>And when Shemaiah the prophet came to king Rehoboam and told him,<note place="margin">2 Chron. 12.6.</note> that becauſe he had forſaken the Lord, therefore the Lord had left him in the hands of <hi>Shiſhak,</hi> he and the princes of Iſrael humbled themſelves, and ſaid, The Lord is righteous.</p>
+            <p>And when Hezekiah through the lifting up of his heart,<note place="margin">2 Chron. 32.25, 26.</note> had brought wrath upon him<g ref="char:EOLhyphen"/>ſelf, and upon Judah and Jeruſalem:</p>
+            <p>Hezekiah humbled himſelf for the pride of his heart, both he and the inhabitants of Jeruſalem.</p>
+            <p>And when Manaſſeh was in affliction he humbled himſelfe.<note place="margin">2 Chron. 33.12.</note>
+            </p>
+            <p>And when Ezra heard that the Jews had done according to the abomination of the Canaanites,<note place="margin">Ezra 9.3, 4</note> he rent his garment and pluckt the hair off his head and beard, and ſat down aſtoniſhed, and there aſſembled unto him e<g ref="char:EOLhyphen"/>very one that trembled at the word of the God of Iſrael.</p>
+            <p>
+               <pb facs="tcp:119409:5"/>And when Mordecai perceived that wic<g ref="char:EOLhyphen"/>ked Haman had obtained power of the king to kill and deſtroy all the Jewes,<note place="margin">Heſt. 4.1.</note> he rent his cloathes, and put on ſackcloath with Aſhes.</p>
+            <p>And Job ſaid,<note place="margin">Job 42.56.</note> I have heard of thee by the hearing of the eare, but now mine eye ſeeth thee, therefore I abhorre my ſelf, and repent in duſt and aſhes.</p>
+            <p>And David ſaith,<note place="margin">Pſa. 35.13</note> when his enemies were ſicke, he cloathed himſelfe with ſackcloth.</p>
+            <p>And the Church of God in the book of the Lamentations ſaith,<note place="margin">Lam. 3.19 20.</note> I remembring my af<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iction, and my miſery, the wormewood and the gall, my ſoul hath them in remembrance, and is humbled in me.</p>
+            <p n="5">5. <hi>Gods people in the time of danger and diſtreſſe muſt poure out a prayer before the Lord.</hi>
+            </p>
+            <p>Is any afflicted? let him pray.</p>
+            <p>Call upon me in the day of trouble.<note place="margin">Jam. 5.13. Pſal. 50.15 Pſal. 62.8. Jer. 29.12.</note>
+            </p>
+            <p>And poure out your hearts before him.</p>
+            <p>Then (namely in captivity) ſhall ye call upon me, and go and pray unto me.</p>
+            <p>And the Lord ſaid to Jeremy in the dun<g ref="char:EOLhyphen"/>geon,<note place="margin">Jer. 33.3.</note> Call upon me and I will anſwer thee.</p>
+            <p>So likewiſe ſaith the Lord <hi>Zech.</hi> 13<g ref="char:punc">▪</g>9. concerning his people, I will bring them through the fire, and will refine them as ſil<g ref="char:EOLhyphen"/>ver is refined, and try them as gold is tried, and then they ſhall call upon my name and I will hear them.</p>
+            <p>
+               <pb facs="tcp:119409:5"/>
+               <hi>Examples of Gods people who have prayed in time of danger and diſtreſſe.</hi>
+            </p>
+            <p>When the Lord had threatned Abimelech with death becauſe of Sarah Abrahams wife,<note place="margin">Gen. 20.7.17.</note> Abraham prayed unto God.</p>
+            <p>And when Jacob heard that his brother Eſau was coming againſt him,<note place="margin">Gen. 32.9.</note> he prayed un<g ref="char:EOLhyphen"/>to God, ſaying, Deliver me I pray thee from the hand of my brother, from the hand of Eſau, for I fear him.</p>
+            <p>And Moſes ſaid unto the people, Becauſe the Lord had ſaid he would deſtroy you,<note place="margin">Deut. 9.25 26.</note> I prayed therefore unto the Lord.</p>
+            <p>And when the children of Iſrael fled be<g ref="char:EOLhyphen"/>fore the men of Ai, Joſhua ſaid,<note place="margin">Joſ. 7.7, 8.</note> Alas, O Lord God, what ſhall I ſay, when Iſrael turn<g ref="char:EOLhyphen"/>eth their backs before their enemies?</p>
+            <p>And when the prophet Eſay came unto Hezekiah, and ſaid unto him,<note place="margin">2 Kings 20.1, 2.</note> Thus ſaith the Lord, Set thine houſe in order, for thou ſhalt die and not live, he turned his face to the wall, and prayed unto the Lord.</p>
+            <p>And when Hanna was in bitterneſſe of ſoule ſhe prayed.<note place="margin">1 Sam. 1.10. 2 Chron. 32.19, 20.</note>
+            </p>
+            <p>And when the ſervants of Senacherib threatned the people and ſpake againſt the God of Jeruſalem, it is ſaid, that for this cauſe Hezekiah the king, and the prophet Eſay the ſon of Amos prayed and cried to heaven.</p>
+            <p>And when the Arabians and Ammonites,<note place="margin">Neh. 4.7, 9</note>
+               <pb facs="tcp:119409:6"/>and the Aſhdodites conſpired to come and fight againſt Jeruſalem, then ſaith Nehemiah We made our prayers unto our God.</p>
+            <p>And David ſaith,<note place="margin">2 Sam. 22.7.</note> In my diſtreſſe I called upon the Lord, and cried to my God.</p>
+            <p>And Jonas prayed unto the Lord his God out of the fiſhes belly.<note place="margin">Jona. 2.1.</note>
+            </p>
+            <p>And when Peter was in priſon,<note place="margin">Act. 12.5.</note> prayer was made without ceaſing of the Church, unto God for him.</p>
+            <p>And when our Saviours ſoule was ex<g ref="char:EOLhyphen"/>ceeding ſorrowfull unto death,<note place="margin">Mar. 14.34.35.</note> he fell on the ground and prayed.</p>
+            <p n="6">6. <hi>Gods people in the time of danger and diſtreſſe muſt joyne with their prayers, faſting, wee<g ref="char:EOLhyphen"/>ping and mourning.</hi>
+            </p>
+            <p>Sanctifie ye a Faſt, call a ſolemne Aſſem<g ref="char:EOLhyphen"/>bly,<note place="margin">Joel 1.14.</note> gather the Elders and all the inhabitants of the land into the houſe of the Lord your God, and cry unto the Lord.</p>
+            <p>Thus ſaith the Lord,<note place="margin">Joel. 2.12.</note> Turne ye even unto me with all your heart, and with faſting, and with weeping, and with mourning.</p>
+            <p>Blow the trumpet in Zion,<note place="margin">verſe 15.</note> ſanctifie a faſt, aſſemble the elders, gather the children, and thoſe that ſuck the breaſts, let the bride<g ref="char:EOLhyphen"/>groom go forth of his chamber, and the bride out of her cloſet, let the Prieſts the miniſters of the Lord weepe betweene the porch and the altar, and let them ſay, Spare thy people, O Lord, &amp; give not thy heritage
+<pb facs="tcp:119409:6"/>to reproach, wherefore ſhould they ſay a<g ref="char:EOLhyphen"/>mong the people, Where is their God?</p>
+            <p>O daughter of my people gird thee with ſackcloth, and wallow thy ſelf in aſhes,<note place="margin">Jer. 6.26.</note> make thee mourning as for an onely ſon, moſt bit<g ref="char:EOLhyphen"/>ter lamentations, for the ſpoiler ſhal ſudden<g ref="char:EOLhyphen"/>ly come upon us.</p>
+            <p>Thus ſaith the Lord of hoſts, Conſider ye and call for the mourning women,<note place="margin">Jer. 9.17.18.</note> that they may come, and let them make haſt and take up a wailing for us, that our eyes may run downe with tears, and our eyelids guſh out with waters.</p>
+            <p>In that day ſhall there be a great mourn<g ref="char:EOLhyphen"/>ing in Jeruſalem as the mourning of Hada<g ref="char:EOLhyphen"/>drimmon in the valley of Megiddon,<note place="margin">Zech. 12.21.12.</note> and the land ſhall mourne every family apart.</p>
+            <p>And in that day did the Lord God of hoſts call to weeping, and to mourning,<note place="margin">Iſa. 22.12.</note> and to baldneſſe, and to girding with ſackcloth.</p>
+            <p>Be afflicted, and mourn, and weep,<note place="margin">Jam. 4.9.</note> let your laughter be turned to mourning, and your joy into heavineſſe.</p>
+            <p>
+               <hi>Examples of Gods people who have thus faſted wept and mourned.</hi>
+            </p>
+            <p>When the children of Benjamin had twice prevailed againſt the children of Iſ<g ref="char:EOLhyphen"/>rael and ſlaine fourty thouſand of them;<note place="margin">Judg. 20.21.25.</note>
+            </p>
+            <p>Then all the children of Iſrael, and all the people went up and came unto the houſe of God, and wept,<note place="margin">verſe 26.</note> and ſat there before the
+<pb facs="tcp:119409:7"/>Lord, and faſted that day untill even.</p>
+            <p>And when the children of Iſrael in the dayes of Samuel were in great diſtreſſe be<g ref="char:EOLhyphen"/>cauſe of the Philiſtines,<note place="margin">1 Sam. 7.6</note> according to the ad<g ref="char:EOLhyphen"/>vice of Samuel they gathered together to Mizpah, and drew water, and poured it out before the Lord, and faſted on that day, and ſaid, We have ſinned againſt the Lord.</p>
+            <p>And when the Lord ſtrake the childe that Uriahs wiſe bare unto David,<note place="margin">1 Sam. 21.75.</note> and it was ve<g ref="char:EOLhyphen"/>ry ſicke;</p>
+            <p>David therefore beſought God for the childe,<note place="margin">16.</note> and David faſted and went in and lay all night upon the earth.</p>
+            <p>And when there came a great company againſt Jehoſhaphat to battell,<note place="margin">2 Chro. 20 1, 3.</note> he ſet himſelf to ſeek the Lord, and proclaimed a faſt throughout all Judah.</p>
+            <p>And when Nehemiah heard that his bre<g ref="char:EOLhyphen"/>thren in Jeruſalem were in great affliction and reproach,<note place="margin">Neh. 1.3, 4.</note> and the wall of Jeruſalem broken downe, and the gates thereof burnt with fire, he ſat down and wept, and mourn<g ref="char:EOLhyphen"/>ed certaine dayes, and faſted, and prayed be<g ref="char:EOLhyphen"/>fore the God of heaven.</p>
+            <p>And when Haman had prevailed with the king to deſtroy the Jews in every province,<note place="margin">Eſt. 4.3.</note> whitherſoever the kings commandment and his decree came, there was great mourning among the Jewes, and faſting, and weeping, and wailing, and many lay in ſackcloth and aſhes.</p>
+            <p>
+               <pb facs="tcp:119409:7"/>And when word came to the King of Nineveh that within fourty dayes his City ſhould be deſtroyed,<note place="margin">Jon. 3.7, 8</note> he cauſed it to be pro<g ref="char:EOLhyphen"/>claimed and publiſhed through Niniveh, Let neither man nor beaſt, heard nor flock taſte any thing, but let man and beaſt be covered with ſackcloth, and cry mightily unto God.</p>
+            <p>
+               <hi>Gods people in the time of danger and diſtreſſe muſt turn from their evil wayes.</hi>
+            </p>
+            <p>Now therefore go to the men of Judah and to the inhabitants of Jeruſalem,<note place="margin">Jer. 18.11.</note> and ſpeak to them, ſaying, Thus ſaith the Lord, Behold I frame evill againſt you, and deviſe a device againſt you, return ye now every one from his evill way, and make your wayes and your doings good.</p>
+            <p>Turne ye from your evill waies,<note place="margin">2 Kings 17.13.</note> and keep my Commandments and my Statutes.</p>
+            <p>Turne ye, turne ye from your evil wayes,<note place="margin">Eze. 33.11</note> for why will ye die, O houſe of Iſrael?</p>
+            <p>Let them turne every one from his evill way,<note place="margin">Jona. 3.8.</note> and from the violence that is in their hands.</p>
+            <p>
+               <hi>And if Gods people do uſe theſe meanes, God hath graciouſly promiſed to preſerve them from danger feared, and from diſtreſſe felt.</hi>
+            </p>
+            <p>If I ſhut up heaven that there be no raine,<note place="margin">2 Chro. 7.13.</note> or if I command the locuſts to devour the land, or if I ſend a Peſtilence among my people:</p>
+            <p>If my people which are called by my<note place="margin">14</note>
+               <pb facs="tcp:119409:8"/>name ſhall humble themſelves, and pray, and ſeek my face, and turne from their wicked wayes, then will I hear from heaven, and will forgive their ſin, and will heale their land.</p>
+            <p>Becauſe thine heart was tender,<note place="margin">2 Chr. 34.27.</note> and thou didſt humble thy ſelfe before God, when thou heardſt his words againſt this place and againſt the inhabitants thereof, and humbledſt thy ſelf before me, and didſt rent thy cloathes, and weep before me, I have heard thee alſo, ſaith the Lord.</p>
+            <p>Seeſt thou how Ahab humbleth himſelfe before me?<note place="margin">1 Kin. 21.29.</note> becauſe he humbleth himſelf before me, I will not bring the evill in his dayes.</p>
+            <p>And call upon me in the day of trouble,<note place="margin">Pſ. 50.15.</note> I will de<g ref="char:EOLhyphen"/>liver thee, and thou ſhalt glorifie me.</p>
+            <p>Then ſhall ye call upon me,<note place="margin">Ier. 29.12.</note> and go and pray unto me, and I will hearken unto you.</p>
+            <p>And it ſhall come to paſſe that whoſoever ſhall call on the name of the Lord ſhall be delivered:<note place="margin">Ioel 2.32.</note> for in mount Zion and in Ieruſalem ſhall be deliver<g ref="char:EOLhyphen"/>ance, as the Lord hath ſaid, and in the remnant whom the Lord ſhall call.</p>
+            <p>If ye will fear the Lord,<note place="margin">1 Sam. 12.14.</note> and ſerve him and obey his voice, and not Rebell againſt the Command<g ref="char:EOLhyphen"/>ments of the Lord, then ſhall both ye and alſo the King that raigneth over you continue following the Lord.</p>
+            <p>And if ye turne againe unto the Lord,<note place="margin">2 Chr. 30.6</note> your bre<g ref="char:EOLhyphen"/>thren and your children ſhall finde compaſſion be<g ref="char:EOLhyphen"/>fore them that lead them Captive, ſo that they ſhall come again unto this land: for the Lord your God is gracious and mercifull, and will not turne away his face from you, if ye returne unto him.</p>
+            <p>At what inſtant <hi>I</hi> ſhall ſpeak concerning a nation,<note place="margin">Ier. 18.7.8</note> and concerning a kingdom, to pluck up and to pull down, and to deſtroy it, if that nation againſt whom I have pronounced turn from their evil, I will repent of the evil that I thought to do unto them.</p>
+            <p>
+               <pb facs="tcp:119409:8"/>If the wicked will turn from all his ſins that he hath committed, and keep all my ſtatutes,<note place="margin">Ezc. 18.21</note> and do that which is lawfull and right, he ſhall ſurely live, he ſhall not die.</p>
+            <p>
+               <hi>Examples of Gods gracious performance of theſe promiſes to them that have performed theſe duties.</hi>
+            </p>
+            <p>Jacob performing theſe duties was delivered from his brother Eſan, Gen. 33.4.</p>
+            <p>The children of Iſrael performing theſe duties, after they had loſt fourty thouſand men in two over<g ref="char:EOLhyphen"/>throwes, prevailed the third time againſt their enemies, Iudg. 20.43.</p>
+            <p>Ioſhua performing theſe duties, after that he had fled before the men of Ai, prevailed againſt them, and deſtroyed the City, Iſ. 7.26.</p>
+            <p>The children of Iſrael in Samuels time perform<g ref="char:EOLhyphen"/>ing theſe duties,<note place="margin">1 Sam. 7.10.</note> after that the Philiſtines had ſlaine thirty thouſand of them, they diſcomfited the Phi<g ref="char:EOLhyphen"/>liſtines, and they were ſmitten before Iſrael.</p>
+            <p>King Rehoboam and the princes performing theſe duties, after that Shiſhak king of Egypt had taken the fenced cities that pertained to Juda, the Lord ſaid, They have humbled themſelves, therefore I wil not deſtroy them, 2 Chro. 12.7.</p>
+            <p>King Jehoſhaphat performing theſe duties,<note place="margin">2 Chro. 20, 23.</note> after that he heard there was a great multitude comming againſt him, was wonderfully delivered from them, the Lord making them to deſtroy one another.</p>
+            <p>King Hezekiah performing theſe duties, after that the king of Aſſyria was come againſt him with a multitude, and many reproachfull ſpeeches, was wonderfully delivered from them, the Angel of the Lord in one night deſtroying an hundred fourſcore and five thouſand of them, 2 King. 19.35.</p>
+            <p>King Aſa performing theſe duties, after that Ze<g ref="char:EOLhyphen"/>rah the Ethiopian was come againſt him with an hoſte of a thouſand thouſand, and three hundred charets, got the victory over them, the Lord ſmiting
+<pb facs="tcp:119409:9"/>them before him, 2 Chronicles 14.12.</p>
+            <p>Ezra and Nehemiah performing theſe duties when they were in great danger of their enemies, were by Gods ſpeciall providence preſerved from them, ſo that they could not hinder the worke, God bringing all the enemies counſell to n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ught, Nehe. 4.15.</p>
+            <p>Mordecai, Eſther and the reſt of the Jewes per<g ref="char:EOLhyphen"/>forming theſe duties, after that Haman had obtained authority from the King to deſtroy, to kill, and to cauſe to periſh all Jewes, they were delivered from them: For ſaith the text, In the day that the enemies of the Iewes hoped to have power over them, it turned contrary, for the Iewes had power over them that hated them, Eſt. 9.1.</p>
+            <p>King Manaſſeh performing theſe duties when he was in Babylon bound in fetters, the Lord brought him againe to Ieruſalem into his Kingdome, 2 Chron. 33.11 13.</p>
+            <p>The King of Nineveh and his people perfor<g ref="char:EOLhyphen"/>ming theſe duties, after that Ionah had cried and ſaid, Yet forty dayes and Nineveh ſhal be deſtroyed, they were delivered: for, ſaith the Text, God ſaw their workes, that they turned from their evill way, and God repented of the evill that he had ſaid he would do unto them, and he did it not, Iona. 3.4, 10.</p>
+            <p>The Church of God performing this duty in the behalfe of Peter, when he was in priſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, obtained a miraculous deliverance for him, Act. 12.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This is Licenſed according to order:</p>
+         </div>
+      </back>
+   </text>
+</TEI>
